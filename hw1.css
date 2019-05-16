@@ -1,0 +1,19 @@
+body{
+    background-color: #73d0e2;
+    background-image: url(./bonobono.jpg);
+    background-size: 800px 800px;
+    background-repeat: repeat-x;
+    background-position: center center;
+    font-family: 'Binggrae-Bold';
+}
+@font-face { font-family: 'Binggrae-Bold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Binggrae-Bold.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'BMHANNAAir'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/BMHANNAAir.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'YunTaemin'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/YunTaemin.woff') format('woff'); font-weight: normal; font-style: normal; }
+h1{
+    text-align: center;
+    color: white;
+    text-shadow:0px 0px 3px darkblue;
+}
+
+
+
